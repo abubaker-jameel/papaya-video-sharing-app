@@ -21,6 +21,9 @@ module.exports = {
       dark03: "#0C1033",
       dark04: "#1D234D",
     },
+    fontFamily: {
+      poppins: "var(--font-poppins)",
+    },
     extend: {},
   },
   plugins: [],
